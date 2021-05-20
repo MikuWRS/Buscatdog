@@ -1,6 +1,6 @@
 # Buscatdog
 Proyecto realizado en la universidad para el ramo de Ingeniería de Software 2
-
+Consiste en un prototipo funcional de un buscador de mascotas perdidas mediante el uso de geolocalización
 Integrantes del equipo
 - Katerine Muñoz
 - Ignacio Olave
